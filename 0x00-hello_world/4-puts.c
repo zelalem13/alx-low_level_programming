@@ -1,5 +1,7 @@
 #include<stdio.h>
-
+/**
+ * print by using puts key word
+ */
 
 int main(void)
 {
