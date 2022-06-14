@@ -2,7 +2,7 @@
 #include <stdlib.h>
 /**
  *  *main - main block
- *   *Description: Get random number and check its last digit, compare it with 5
+ *  *Description: Get random number and check its last digit, compare it with 5
  *    *Return: 0
  *   **/
 int main(void)
@@ -14,7 +14,6 @@ int main(void)
 		putchar(c);
 		c++;
 	}
-	
 	putchar('\n');
 	return (0);
 }
